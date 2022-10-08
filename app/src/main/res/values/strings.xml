@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project 2 Uday Khatri</string>
+    <string name="title_activity_maps">Current location</string>
+    <string name="service">Location Services not working</string>
+    <string name="invalid_lat_long">Invalid Latitude and Longitude</string>
+    <string name="no_address_found">No address found from that Lat/Lng</string>
+    <string name="map">Map</string>
+    <string name="sms">SMS</string>
+    <string name="email">E-mail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="per_grant">Permission granted</string>
+    <string name="per_not_grant">permission not granted</string>
+</resources>
